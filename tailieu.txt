@@ -1,0 +1,16 @@
+1. Câu hỏi về Thời gian & Lịch (Thông minh) 🧠
+"Hôm nay là thứ mấy?" (Nó sẽ trả lời đúng ngày giờ hiện tại).
+"Hôm nay tôi có phải đi học không?" (Nó sẽ tự tra lịch và so sánh với thứ hôm nay).
+"Ngày mai có môn gì?" (Nó tự biết "mai" là thứ mấy và tra lịch).
+"Sáng thứ 2 tôi bận không?"
+2. Câu hỏi tra cứu chi tiết 🔎
+"Môn Mạng máy tính học phòng nào?"
+"Tiết 1 hôm nay học môn gì?"
+"Tôi học những môn nào vào thứ 6?"
+3. Câu hỏi tư vấn (AI Llama 3) 💡
+"Làm sao để qua môn Giải tích?"
+"Viết email xin nghỉ học môn Lập trình vì bị ốm"
+"Học Công nghệ thông tin ra trường làm gì?"
+4. Tra cứu điểm (Dữ liệu gốc) 📊
+"Xem điểm"
+"Điểm thi mới nhất"
